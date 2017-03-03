@@ -1,5 +1,8 @@
-# NgFhirExample
+Forked [bunyaminsg/ng-fhir-example](https://github.com/bunyaminsg/ng-fhir-example) and added [STU3 typings for FHIR Resources](https://github.com/t4deon/FHIR-STU3-TS-Typings) 
+and made flow in the app reactive by using [ngrx/store](https://github.com/ngrx/store).
 
+# NgFhirExample
+ 
 Don't forget to install npm packages with
 ```
 npm install

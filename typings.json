@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "typings": "github:t4deon/FHIR-STU3-TS-Typings/typings.d.ts#e36b4cf4bb07734b97ea8d14893f7747fd990438"
+  }
+}
